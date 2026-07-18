@@ -1,0 +1,31 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 18 Jul 2026 08:44:52 +0000
+Label: lmtop
+Origin: lmtop
+Suite: stable
+MD5Sum:
+ 1f2fb53824582ada6783eafb3a84ef00              140 Release
+ 73feaceada9d8208a7d1a5f3ac731593              844 main/binary-amd64/Packages
+ 0f87d21405e148c8248666a2123378d6              575 main/binary-amd64/Packages.gz
+ 161f9817b012a37ac130eb0e2e144971              843 main/binary-arm64/Packages
+ 35954e948e5bf965537156db2a532b14              578 main/binary-arm64/Packages.gz
+SHA1:
+ 518b2c54f1c69f432ff5904ae7164a705b6e8ba5              140 Release
+ c6b050016ceb6b59448b803c9b3886102f2ccc36              844 main/binary-amd64/Packages
+ 0f1815f3f3874f9c9f2a7abd75290053248253ae              575 main/binary-amd64/Packages.gz
+ 875f03d160d5f6a59004dcfc6714a02e7692c148              843 main/binary-arm64/Packages
+ 83a9d99ca0c160633ebce37b39927fd3df3028f5              578 main/binary-arm64/Packages.gz
+SHA256:
+ 4375fcdbd97a1fe8dff0e9f7f313ad19d40dda8bfd73f1ada367e25146f85250              140 Release
+ 7e2e140711bb45a735a5c79471e29e4ab56a1db15724705ef20d9be81675e461              844 main/binary-amd64/Packages
+ d168b2f4bfc796cd5ff85a68ddee6646aa6308ee53d5fe4c82b6915bd29e4be6              575 main/binary-amd64/Packages.gz
+ ac359cb32bd7ee742eab0f818ae780d50d2b31cf0081c4f42b6659869ff4ebbb              843 main/binary-arm64/Packages
+ 4acf6c0289bd364105414806ce33f4a766c11d1f6cb5ed32d3830e205dcb8457              578 main/binary-arm64/Packages.gz
+SHA512:
+ 52d0ced21852e03dbb5babde0217c954d9cfb81101ad95170c3500bd382215129a9574f1ab5a19c74e082d0997d5dcddf179ad669a7b66b077f6d5cbf3eb5b12              140 Release
+ fcae78f834c9cf5fb7248473208dd597a978ed9b34c75b8d37529a6c9be9acea5a95e99d8e1376894c272b887f59c604ff1255ae4ad96ee266ea3605045fa2a5              844 main/binary-amd64/Packages
+ bac88c5dd6435a4d140dc36d900a4da5a4652ae1db2edb89f69d2d54e03e010ba8064df8c2e4eb9525132df288ecccd1f4d3c282bc5f0e94a3376ec045db2aae              575 main/binary-amd64/Packages.gz
+ c5c9eb74c4d826d4a04edf6474cafa4a684ae06620c8fe1876a5e2013cba3a9f44c32cd3b84de3642069fbfea223f053d40141692b0d92c4df13a2dacf2a80ce              843 main/binary-arm64/Packages
+ 63978233b589fc32026da581e7de8cf6a00c7ba4b3032c066861d429bc740868570e6e51aadb41dfa415f380e935830b15d72caa21eaa1b71d6fc4b47f820a07              578 main/binary-arm64/Packages.gz

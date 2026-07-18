@@ -1,0 +1,21 @@
+Package: lmtop
+Version: 0.3.5-1
+Architecture: amd64
+Maintainer: Edward Wijaya <ewijaya@gmail.com>
+Installed-Size: 11577
+Filename: pool/main/lmtop_0.3.5-1_amd64.deb
+Size: 3921072
+MD5sum: ceb5bbc2f892dc8737c3ac2748daadc0
+SHA1: 23f37b2d60ecd1c42fc2562f7a7655467bdfa618
+SHA256: 41659a9bebbafcce9dfa19f29a58dd320dc3e23f53507633a63dd8152ab0f59a
+Section: utils
+Priority: optional
+Homepage: https://github.com/ewijaya/lmtop
+Description: A live terminal monitor for language-model usage, quotas, and subscription
+ capacity
+ lmtop ("language-model top") is a terminal dashboard for monitoring usage, rate
+ limits, rolling quota windows, reset times, burn velocity, and projected
+ exhaustion across AI coding agents such as OpenAI Codex and Claude Code. It is
+ designed especially for users on flat-rate subscription plans rather than
+ API-only billing.
+
