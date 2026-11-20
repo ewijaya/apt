@@ -1,13 +1,13 @@
 Package: lmtop
-Version: 0.3.9-1
+Version: 0.4.0-1
 Architecture: arm64
 Maintainer: Edward Wijaya <ewijaya@gmail.com>
-Installed-Size: 9274
-Filename: pool/main/lmtop_0.3.9-1_arm64.deb
-Size: 3698136
-MD5sum: b4d51faaa883f378e6c7cb4f718ed66b
-SHA1: 078db640f29c4d388e18c106f0b73512640c1687
-SHA256: 38624ca1dc56cab4481dc6c00975fc42a24a704babef0542e279ede88a46eb44
+Installed-Size: 9353
+Filename: pool/main/lmtop_0.4.0-1_arm64.deb
+Size: 3727460
+MD5sum: fabe8a745a7a309ae7c344f255cafe78
+SHA1: 5d8d426784ce9443019a717b03fea68c9b4dd5e5
+SHA256: 10328f8c83cb05c5db8dd69a1ceee55c22b7d7eb06af1f147e5a93d3e0ba8f7d
 Section: utils
 Priority: optional
 Homepage: https://github.com/ewijaya/lmtop
